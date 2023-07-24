@@ -1,5 +1,7 @@
 # CGRA PROJECT (Vinh, Rhys, Clara)
 
+A basic implementation of the paper [Interactive Wood Combustion for Botanical Tree Models](https://dl.acm.org/doi/10.1145/3130800.3130814). *ACM Transactions on Graphics*, 2017
+
 
 ## Set up
 
